@@ -1,5 +1,5 @@
-# paramozor
-analysis parameter for code injection
+# Paramozor
+Analysis parameter for HTML-Javascript-Content injection
 
 Copyright (c) 2017 Hamed Izadi (@hezd). 
 
